@@ -47,9 +47,28 @@
 ---
 
 
+
 ## 📽️ Featured Projects
 
-<!-- Add your project details here -->
+<div align="center">
+	<a href="https://github.com/Avizz220/Vesco-Engineering" target="_blank">
+		<img src="public/veco.png" alt="Vesco Engineering" width="180"/>
+		<br/>
+		<b>Vesco Engineering</b>
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Avizz220/Devops-Project" target="_blank">
+		<img src="public/devops.png" alt="DevOps Project" width="180"/>
+		<br/>
+		<b>DevOps Project</b>
+	</a>
+	&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Avizz220/Flutter-Mobile-App" target="_blank">
+		<img src="public/mobile.png" alt="Flutter Mobile App" width="180"/>
+		<br/>
+		<b>Flutter Mobile App</b>
+	</a>
+</div>
 
 ---
 
