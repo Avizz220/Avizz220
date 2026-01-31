@@ -13,9 +13,9 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍🎓 About Me
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning, and Full Stack Development**
+- 💻 I’m currently learning **Artificial Intelligence, Machine Learning, and Full Stack Development**
 - 💬 Ask me about coding, tech, or anything!
 - 📫 How to reach me: **ahirushan629@gmail.com**
 
