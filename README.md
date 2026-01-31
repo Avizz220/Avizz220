@@ -46,21 +46,10 @@
 
 ---
 
-## ✨ GitHub Stats
-
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=avizz220&show_icons=true&theme=radical" alt="Avishka's GitHub stats" width="400"/>
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=avizz220&theme=radical" width="400"/>
-</p>
-
----
 
 ## 📽️ Featured Projects
 
-<p align="center">
-	<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300"/>
-	<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-</p>
+<!-- Add your project details here -->
 
 ---
 
