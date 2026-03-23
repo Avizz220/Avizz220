@@ -1,8 +1,12 @@
-
 <div align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 	<h1>Hi, I'm Avishka Hirushan! 👋</h1>
 	<h3>Computer Engineering Undergraduate<br>Faculty Of Engineering, University Of Ruhuna</h3>
+	<p>
+		<a href="https://my-portfolio-76onrb58w-avishka-hirushans-projects.vercel.app" target="_blank">
+			<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+		</a>
+	</p>
 </div>
 
 ---
@@ -16,6 +20,7 @@
 ## 👨‍🎓 About Me
 
 - 💻 I’m currently learning **Artificial Intelligence, Machine Learning, and Full Stack Development**
+- 🌐 Portfolio: **[my-portfolio-76onrb58w-avishka-hirushans-projects.vercel.app](https://my-portfolio-76onrb58w-avishka-hirushans-projects.vercel.app)**
 - 💬 Ask me about coding, tech, or anything!
 - 📫 How to reach me: **ahirushan629@gmail.com**
 
@@ -46,10 +51,7 @@
 
 ---
 
-
-
 ## 📽️ Featured Projects
-
 
 **Featured Projects:**
 
