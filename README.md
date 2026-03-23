@@ -7,6 +7,11 @@
 			<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
 		</a>
 	</p>
+	<p>
+		<a href="https://drive.google.com/file/d/1_kfP_vuNVuFeJnBDxbTmCXmTwFrphps4/view?usp=drive_link" target="_blank">
+			<img src="https://img.shields.io/badge/📄_View_My_CV-D14836?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV Badge"/>
+		</a>
+	</p>
 </div>
 
 ---
